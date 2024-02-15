@@ -1,0 +1,53 @@
+
+*{
+    background-color: #1F2544;
+    margin: 0;
+    padding: 0;
+    
+    
+}
+h1{
+    color: #FFE5E5;
+    font-family: 'Fjalla One', sans-serif;
+    text-align: center;
+    margin-top: 70px;
+}
+.login{
+    height: 70vh;
+    width: 60vh;
+    margin-left: 37%;
+    margin-top: 100px;
+    background-color: #474F7A;
+    border: 2px solid black ;
+    display: flex;
+    display: block;
+    padding: 25px;
+    color: white;
+    font-size: xx-large;
+    text-align: center;
+    font-style:italic;
+    border:1px solid red;
+}
+.login:hover{
+    border-color: white;
+}
+.box1{
+    height: 200px;
+    width: 55vh;
+    border: 0.5px solid white ;
+    margin: 20px;
+    color: white;
+    font-size: x-large;
+    display: flex;
+    display:block ;
+    align-items: center;
+    text-align: center;
+    
+}
+.box2{
+    height: 200px;
+    width: 55vh;
+    border: 0.5px solid white ;
+    margin: 20px;
+}
+
